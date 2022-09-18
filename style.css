@@ -1,0 +1,42 @@
+h1{
+    color: red;
+}
+.heading{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+
+.item{
+    border: solid;
+}
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.footer{    
+    display: flex;
+    justify-content: flex-end;
+}
+h2,p{
+    text-align: center;
+}
+body{
+    background-color: #808080;
+}
+.Intro{
+    background-color: aqua;
+    text-align: center;
+
+}
+.head{
+    color: rgb(123, 0, 255);
+    border-style: ridge;
+    padding: 20px;
+}
+.Hyperlink{
+    font-size: 17px;
+    margin: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
